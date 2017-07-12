@@ -1,0 +1,21 @@
+(TB)	Partner_Table
+		ID 10 | Gallery(Y)
+		ID 10 | Addon_Info(N)
+		ID 10 | Earn Structure (Y)
+		ID 10 | Promo (N)
+
+(TB)	Partner_Table_Gallery
+		ID 10 | Image A
+		ID 10 | Image B
+
+(TB)	Partner_Table_Earn_Structure
+		ID 10 | Earn Info (might depend to other table)	 
+
+(TB)	Partner_Table_Info
+		ID 10 | Name Zalora | Partner_Info : ABC | (might depend on other table)
+
+(TB)	Partner_Table_Addon_Info
+		NA
+
+(TB)	Partner_Table_Promo
+		NA
